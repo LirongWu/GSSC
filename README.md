@@ -62,7 +62,35 @@ python main.py --dataset cora
 python main.py --label_mode
   ```
 
-where the *label_mode* denotes different dataset variants. **(1) -1:** training with 1 labels per class; **(2) -3:** training with 3 labels per class; (3) -5: training with 5 labels per class; **(4) -10:** training with 5 labels per class; **(5) -25:** training with structure perturbation ratio 5%; **(6) -30:** training with structure perturbation ratio 10%; **(7) -40:** training with structure perturbation ratio 20%; **(8) -50:** training with structure perturbation ratio 30%; **(9) -51:** training with symmetric label noise ratio 20%; **(10) -52:** training with symmetric label noise ratio 40%; **(11) -53:** training with symmetric label noise ratio 60%; **(12) -54:** training with asymmetric label noise ratio 20%; **(13) -55:** training with asymmetric label noise ratio 40%; **(14) -56:** training with asymmetric label noise ratio 60%.
+where the *label_mode* denotes different dataset variants. 
+
+**(1) -1:** training with 1 labels per class; 
+
+**(2) -3:** training with 3 labels per class; 
+
+**(3) -5**: training with 5 labels per class; 
+
+**(4) -10:** training with 5 labels per class; 
+
+**(5) -25:** training with structure perturbation ratio 5%; 
+
+**(6) -30:** training with structure perturbation ratio 10%; 
+
+**(7) -40:** training with structure perturbation ratio 20%; 
+
+**(8) -50:** training with structure perturbation ratio 30%; 
+
+**(9) -51:** training with symmetric label noise ratio 20%; 
+
+**(10) -52:** training with symmetric label noise ratio 40%; 
+
+**(11) -53:** training with symmetric label noise ratio 60%; 
+
+**(12) -54:** training with asymmetric label noise ratio 20%; 
+
+**(13) -55:** training with asymmetric label noise ratio 40%; 
+
+**(14) -56:** training with asymmetric label noise ratio 60%.
 
 
 
