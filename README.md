@@ -94,6 +94,16 @@ where the *label_mode* denotes different dataset variants.
 
 
 
-## License
+## Citation
 
-Graph Structure Self-Contrasting (GSSC) is released under the MIT license.
+If you are interested in our repository and our paper, please cite the following paper:
+
+```
+@article{wu2024learning,
+  title={Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting},
+  author={Wu, Lirong and Lin, Haitao and Zhao, Guojiang and Tan, Cheng and Li, Stan Z},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
+}
+```
